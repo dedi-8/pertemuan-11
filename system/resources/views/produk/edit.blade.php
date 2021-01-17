@@ -12,7 +12,7 @@
 				</div>
 			</div>
 			<div class="col-md-9">
-				<div class="card">
+				<div class="card"> 
 					<div class="card-header">
 						Edit Data Produk
 						<form action="{{url('admin/produk', $produk->id)}}" method="post" enctype="multipart/form-data">

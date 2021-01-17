@@ -22,7 +22,6 @@
     			</div>
     			<div class="body">
     				{{$item->deskripsi}}
-    				}
     			</div>
     		</div>
     	</div>
